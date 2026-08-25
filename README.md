@@ -1,4 +1,4 @@
-# Retail Insights Agent — Databricks Data Agent Project
+# Retail Insights Agent - Databricks Data Agent Project
 
 ## Project Objective
 This project builds a working Data Agent on Databricks that analyzes retail
