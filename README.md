@@ -67,7 +67,7 @@ Responses follow: (1) a headline leading with the most important number,
 professional, clear, concise, and focused on business impact.
 
 **6. Handling Ambiguity**
-If a question is unclear or incomplete, do not guess — ask a clarifying
+If a question is unclear or incomplete, do not guess - ask a clarifying
 question. If partially answerable, provide what's available and state
 what's missing. If data is missing, say so explicitly and suggest the
 closest alternative insight if possible.
@@ -79,7 +79,7 @@ an answer, say so clearly and offer a related insight if possible.
 
 **8. Recommendations**
 Provide recommendations only when supported by clear, observable data
-patterns. Suggest one clear, practical action — avoid overcomplicated
+patterns. Suggest one clear, practical action to avoid overcomplicated
 strategies. If confidence is low, present facts only, without a
 recommendation.
 
@@ -121,7 +121,7 @@ using SQL queries -  all three were confirmed accurate:
   by Electronics - Beauty peaks on Fridays instead.
 
 ## Business Recommendations
-1. Launch a customer retention program - zero repeat purchases is the
+1. Launch a customer retention program, zero repeat purchases is the
    single biggest growth opportunity.
 2. Address Beauty's low transaction volume with targeted promotions or
    bundling, rather than discounting.
